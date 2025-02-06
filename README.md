@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allan74
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m a fullstack developer
 - 💞️ I’m looking to collaborate on any project involving javascript
 - 📫 How to reach me karaniallan74@gmail.com
 
